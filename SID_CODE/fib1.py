@@ -9,7 +9,6 @@ def fib(lowerbound, upperbound):
 
 startNumber = 10
 endNumber = 100
-import pdb;pdb.set_trace()
 fib(startNumber, endNumber)
 #for fib_sequence in fib(startNumber, endNumber):
 #    print "And the next number is... %d!" % fib_sequence
