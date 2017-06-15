@@ -1,0 +1,10 @@
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/abc.txt
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/abc.jpj
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/abc.STOT
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/abc.mp4
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/def.txt
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/def.jpj
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/def.STOT
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/ghi.txt
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/ghi.mp4
+Users/ssiddh/GIT/Flask_1/Interveiw_coding/ghi.jpg
